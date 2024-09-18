@@ -21,7 +21,8 @@ This project is a comprehensive data analysis task involving employee data and p
   - Filtered and displayed employee details based on specific criteria, such as the presence of the letter “o” in city names.
 
 # Technologies Uses
-- **Programming Language:** Python
+- **Programming Language:**
+  - Python
 - **Libraries:**
   - Pandas for data manipulation and analysis
   - NumPy for numerical operations
