@@ -20,7 +20,7 @@ This project is a comprehensive data analysis task involving employee data and p
 - **Querying Data:**
   - Filtered and displayed employee details based on specific criteria, such as the presence of the letter “o” in city names.
 
-# Technologies Uses
+# Technologies Used
 - **Programming Language:**
   - Python
 - **Libraries:**
